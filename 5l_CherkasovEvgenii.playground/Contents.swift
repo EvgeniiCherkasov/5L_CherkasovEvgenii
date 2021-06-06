@@ -219,6 +219,6 @@ man.openWindow()
 man.action(action: .unhitchTrailer)
 man.action(action: .attachTrailer)
 man.putSmthToTrunk(weight: 300)
-man.putSmthToTrunk(weight: 150)
+man.putSmthToTrunk(weight: 120)
 man.description()
 
